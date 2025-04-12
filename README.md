@@ -70,3 +70,34 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudharsaax" alt="GitHub Streak" />
 
 </div>
+
+
+---
+
+### ✨ Highlights & Badges
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Open%20Source-Lover-%2300bfff?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/React%20Developer-⚛️-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ML%20Enthusiast-🧠-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Firebase%20Fan-🔥-ffca28?style=for-the-badge" />
+</p>
+
+---
+
+
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sudharsaax&theme=onedark&row=1&column=7" />
+</p>
+
+---
+
+### 🧩 Fun Fact
+
+> **"You miss 100% of the commits you don't push 😄"**
+
+---
+
