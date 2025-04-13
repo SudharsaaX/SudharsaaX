@@ -18,7 +18,8 @@
   - **IoT Dashboards** and hardware-software integration  
   - **ML-integrated** visualizations/web apps  
 - 💬 Ask me about:  
-  **React, Node.js, MongoDB, Firebase, Python, TensorFlow, OpenCV, Arduino, ESP32**  
+  **React, Node.js, MongoDB, Firebase, Python, TensorFlow, OpenCV, Arduino, ESP32, Creative Design**
+- 🌐 [Check out my Portfolio](https://sudharsan-portfolio-e7032.web.app/)  
 - 📫 Reach me at: **sudharsan1527@gmail.com**  
 - 📄 [View My Resume](https://drive.google.com/file/d/1rDn8mxhYpkxqs2mR2ZEudOtLWCRh61yd/view?usp=sharing)  
 - ⚡ Fun fact: *I think I’m funny 😄*
