@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/SudharsaaX/SudharsaaX/main/github-header-image.png" alt="banner" width="100%" />
 
 <h1 align="center">Hey 👋, I'm Sudharsan S</h1>
-<h3 align="center">A passionate Frontend Developer & Tech Explorer from India 🇮🇳</h3>
+<h3 align="center">A passionate Tech Explorer from India 🇮🇳</h3>
 
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/0lGd2OXXHe4tFhb7Wh.webp" />
 
