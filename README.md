@@ -11,7 +11,7 @@
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working on: **A Project Management Tool**  
+- 🔭 I’m currently working on: **Preparing for placements and improving my technical skills**  
 - 🌱 Currently diving into: **Machine Learning, Data Science & end-to-end ML Pipelines**  
 - 🤝 Open to collaborate on:  
   - Web Dev projects using **React, GSAP, Firebase**  
