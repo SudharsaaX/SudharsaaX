@@ -9,7 +9,7 @@
   <img src="https://komarev.com/ghpvc/?username=sudharsaax&label=Profile%20views&color=0e75b6&style=flat" alt="sudharsaax" />
 </p>
 
-### 🚀 About Me
+### About Me
 
 - Currently focused on **placement preparation and building end-to-end ML/DL projects**
 - Actively learning **Machine Learning, Deep Learning, Data Science, and MLOps fundamentals**
@@ -44,7 +44,7 @@ Explore my work, animations, and designs here:
 
 ---
 
-### 🛠️ Languages & Tools
+### Languages & Tools
 
 <p align="left">
   <!-- Icons -->
@@ -64,19 +64,20 @@ Explore my work, animations, and designs here:
 ---
 ---
 
-### ✨ Highlights & Badges
+### Highlights & Badges
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Open%20Source-Lover-%2300bfff?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/React%20Developer-⚛️-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/ML%20Enthusiast-🧠-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Firebase%20Fan-🔥-ffca28?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-2ea44f?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-Enthusiast-4b8bbe?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-Practitioner-6a1b9a?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI%20Research-Focused-0a9396?style=for-the-badge" />
 </p>
 
 ---
 
 
-### 🧩 Fun Fact
+
+### Fun Fact
 
 > **"You miss 100% of the commits you don't push 😄"**
 
