@@ -40,9 +40,9 @@ Explore my work, animations, and designs here:
 ---
 ### Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-Sudharsan%20S-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sudharsan149)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sudharsan%20S-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sudharsan-aiml/)
 ---
+
 
 ### Languages & Tools
 
