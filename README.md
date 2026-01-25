@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/SudharsaaX/SudharsaaX/main/github-header-image.png" alt="banner" width="100%" />
 
-<h1 align="center">Hey 👋, I'm Sudharsan S</h1>
+<h1 align="center">Hey, I'm Sudharsan S</h1>
 <h3 align="center">A passionate Tech Explorer from India 🇮🇳</h3>
 
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/0lGd2OXXHe4tFhb7Wh.webp" />
@@ -11,24 +11,24 @@
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working on: **Preparing for placements and improving my technical skills**  
-- 🌱 Currently diving into: **Machine Learning, Data Science & end-to-end ML Pipelines**  
-- 🤝 Open to collaborate on:  
-  - Web Dev projects using **React, GSAP, Firebase**  
-  - **IoT Dashboards** and hardware-software integration  
-  - **ML-integrated** visualizations/web apps  
-- 💬 Ask me about:  
-  **React, Node.js, MongoDB, Firebase, Python, TensorFlow, OpenCV, Arduino, ESP32, Creative Design** 
-- 📫 Reach me at: **sudharsan1527@gmail.com**  
-- 📄 [View My Resume](https://drive.google.com/file/d/1rDn8mxhYpkxqs2mR2ZEudOtLWCRh61yd/view?usp=sharing)  
-- ⚡ Fun fact: *I think I’m funny 😄*
+- Currently focused on **placement preparation and building end-to-end ML/DL projects**
+- Actively learning **Machine Learning, Deep Learning, Data Science, and MLOps fundamentals**
+- Open to collaborating on:
+  - **Machine Learning and Deep Learning projects**
+  - **Speech Processing, Computer Vision, and NLP systems**
+  - **AI-powered automation and research-oriented projects**
+- Ask me about:
+  **Python, Machine Learning, Deep Learning, PyTorch, TensorFlow, Computer Vision, Speech Processing, Data Analysis**
+- Reach me at: **sudharsan1527@gmail.com** 
+- [View My Resume](https://drive.google.com/file/d/1p-g_uRUp6uc4yjdXxURjL_z2gs_DY_eo/view?usp=sharing)  
+- Fun fact: *I think I’m funny*
 
 ---
 
-### 🌐 My Creative Space (Portfolio)
+### My Creative Space (Portfolio)
 
-🎨✨ Explore my work, animations, and designs here:  
-🔗 [**sudharsan-portfolio-e7032.web.app**](https://sudharsan-portfolio-e7032.web.app/)
+Explore my work, animations, and designs here:  
+ [**sudharsan-portfolio-e7032.web.app**](https://sudharsan-portfolio-e7032.web.app/)
 
 ---
 <!-- Snake Game Repo View -->
@@ -38,7 +38,7 @@
 </div>
 
 ---
-### 🌐 Connect with Me
+### Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-Sudharsan%20S-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sudharsan149)
 
