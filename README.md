@@ -24,7 +24,7 @@
   **Python, ML/DL, PyTorch, TensorFlow, OpenCV, NLP, Data Analysis**
 - Reach me at:
   **sudharsan1527@gmail.com**
-- [View My Resume](https://drive.google.com/file/d/1p-g_uRUp6uc4yjdXxURjL_z2gs_DY_eo/view?usp=sharing)
+- [View My Resume](https://drive.google.com/file/d/1Ua-azQCrfmLcyrRQfda5LYt_COc9fHQE/view?usp=sharing)
 
 ---
 
