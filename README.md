@@ -1,106 +1,116 @@
 <img src="https://raw.githubusercontent.com/SudharsaaX/SudharsaaX/main/github-header-image.png" alt="banner" width="100%" />
 
 <h1 align="center">Hey, I'm Sudharsan S</h1>
-<h3 align="center">A passionate Tech Explorer from India 🇮🇳</h3>
+<h3 align="center">AI & ML Enthusiast | Tech Explorer from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/0lGd2OXXHe4tFhb7Wh.webp" />
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=sudharsaax&label=Profile%20views&color=0e75b6&style=flat" alt="sudharsaax" />
+  <img src="https://komarev.com/ghpvc/?username=sudharsaax&label=Profile%20Views&color=0e75b6&style=flat" alt="sudharsaax" />
 </p>
 
-### About Me
+---
 
-- Currently focused on **placement preparation and building end-to-end ML/DL projects**
-- Actively learning **Machine Learning, Deep Learning, Data Science, and MLOps fundamentals**
+## About Me
+
+- Currently focused on **Placement Preparation & End-to-End AI Projects**
+- Learning **Machine Learning, Deep Learning, Data Science & MLOps**
 - Open to collaborating on:
-  - **Machine Learning and Deep Learning projects**
-  - **Speech Processing, Computer Vision, and NLP systems**
-  - **AI-powered automation and research-oriented projects**
+  - Machine Learning & Deep Learning Projects
+  - Computer Vision & NLP Systems
+  - AI Automation Tools
+  - Research-Oriented AI Applications
 - Ask me about:
-  **Python, Machine Learning, Deep Learning, PyTorch, TensorFlow, Computer Vision, Speech Processing, Data Analysis**
-- Reach me at: **sudharsan1527@gmail.com** 
-- [View My Resume](https://drive.google.com/file/d/1p-g_uRUp6uc4yjdXxURjL_z2gs_DY_eo/view?usp=sharing)  
-- Fun fact: *I think I’m funny*
+  **Python, ML/DL, PyTorch, TensorFlow, OpenCV, NLP, Data Analysis**
+- Reach me at:
+  **sudharsan1527@gmail.com**
+- [View My Resume](https://drive.google.com/file/d/1p-g_uRUp6uc4yjdXxURjL_z2gs_DY_eo/view?usp=sharing)
 
 ---
 
-### My Creative Space (Portfolio)
+## Portfolio
 
-Explore my work, animations, and designs here:  
- [**sudharsan-portfolio-e7032.web.app**]([https://sudharsan-portfolio-e7032.web.app/](https://sudharsaax.web.app/))
+Explore my projects, animations, and creative work here:
+
+https://sudharsaax.web.app
 
 ---
-<!-- Snake Game Repo View -->
+
+## Contribution Snake
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
 ---
-### Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sudharsan%20S-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sudharsan-aiml/)
----
-
-
-### Languages & Tools
+## Connect With Me
 
 <p align="left">
-  <!-- Programming Language -->
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-  </a>
-
-  <!-- Machine Learning / Deep Learning -->
-  <a href="https://pytorch.org/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40"/>
-  </a>
-  <a href="https://www.tensorflow.org/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/>
-  </a>
-
-  <!-- Computer Vision -->
-  <a href="https://opencv.org/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40"/>
-  </a>
-
-  <!-- Data Science -->
-  <a href="https://numpy.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
-  </a>
-  <a href="https://matplotlib.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="40"/>
-  </a>
-
-  <!-- Tools -->
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
-  </a>
-  <a href="https://github.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/>
-  </a>
-
-  <!-- Embedded / Hardware Exposure -->
-  <a href="https://www.arduino.cc/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40"/>
-  </a>
-  <a href="https://www.raspberrypi.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" width="40"/>
+  <a href="https://www.linkedin.com/in/sudharsan-aiml/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Sudharsan%20S-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
 ---
 
+## Languages & Tools
+
+<p align="left">
+
+<a href="https://www.python.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+</a>
+
+<a href="https://pytorch.org/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40"/>
+</a>
+
+<a href="https://www.tensorflow.org/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/>
+</a>
+
+<a href="https://opencv.org/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40"/>
+</a>
+
+<a href="https://numpy.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40"/>
+</a>
+
+<a href="https://pandas.pydata.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
+</a>
+
+<a href="https://matplotlib.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="40"/>
+</a>
+
+<a href="https://git-scm.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+</a>
+
+<a href="https://github.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
+</a>
+
+<a href="https://code.visualstudio.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/>
+</a>
+
+<a href="https://www.arduino.cc/" target="_blank">
+  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40"/>
+</a>
+
+<a href="https://www.raspberrypi.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" width="40"/>
+</a>
+
+</p>
+
 ---
 
-### Highlights & Badges
+## Highlights
 
 <p align="left">
   <img src="https://img.shields.io/badge/Open%20Source-Contributor-2ea44f?style=for-the-badge&logo=github" />
@@ -111,11 +121,18 @@ Explore my work, animations, and designs here:
 
 ---
 
+## GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SudharsaaX&show_icons=true&theme=tokyonight" alt="stats" />
+</p>
 
-### Fun Fact
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SudharsaaX&theme=tokyonight" alt="streak" />
+</p>
 
-> **"You miss 100% of the commits you don't push 😄"**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SudharsaaX&layout=compact&theme=tokyonight" alt="languages" />
+</p>
 
 ---
-
