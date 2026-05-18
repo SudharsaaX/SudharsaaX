@@ -64,19 +64,15 @@ https://sudharsaax.web.app
 </p>
 
 ---
-
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SudharsaaX&show_icons=true&theme=tokyonight" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SudharsaaX&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SudharsaaX&layout=compact&theme=tokyonight&hide_border=true" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SudharsaaX&theme=tokyonight" alt="streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SudharsaaX&layout=compact&theme=tokyonight" alt="languages" />
+  <img src="https://streak-stats.demolab.com?user=SudharsaaX&theme=tokyonight&hide_border=true" height="170" />
 </p>
 
 ---
