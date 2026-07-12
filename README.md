@@ -71,7 +71,7 @@ I enjoy turning ideas into practical solutions, exploring new AI technologies, a
 ### AI & Development Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,mongodb,git,github,docker,linux,vscode,anaconda" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,mongodb,git,github,linux,vscode,anaconda" />
 </p>
 
 ### AI Technologies
@@ -97,6 +97,24 @@ I enjoy turning ideas into practical solutions, exploring new AI technologies, a
 
 ---
 
+
+## GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SudharsaaX&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SudharsaaX&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SudharsaaX&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SudharsaaX&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
+
+---
 
 ## Contribution Snake
 
