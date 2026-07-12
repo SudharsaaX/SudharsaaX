@@ -35,13 +35,6 @@ Building intelligent AI applications to solve real-world problems.
 
 </p>
 
-<img
-  align="right"
-  width="320"
-  src="https://raw.githubusercontent.com/SudharsaaX/SudharsaaX/main/assets/bladerunner.gif"
-  alt="AI Animation"
-/> 
-
 ---
 
 ## About Me
