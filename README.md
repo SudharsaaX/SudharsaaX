@@ -1,9 +1,5 @@
 <img src="https://raw.githubusercontent.com/SudharsaaX/SudharsaaX/main/github-header-image.png" alt="banner" width="100%" />
 
-<h1 align="center">
-Hi 👋 I'm Sudharsan S
-</h1>
-
 <h3 align="center">
 Aspiring AI Engineer | Generative AI | Machine Learning | Computer Vision | LLMs | AI Automation
 </h3>
