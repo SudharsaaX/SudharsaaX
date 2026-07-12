@@ -50,25 +50,7 @@ I enjoy transforming ideas into practical AI solutions, experimenting with emerg
 
 ---
 
-### Core Interests
 
-<p>
-
-<img src="https://img.shields.io/badge/Generative_AI-8B5CF6?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Machine_Learning-7C3AED?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Computer_Vision-6D28D9?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/LLMs-C026D3?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/RAG-D946EF?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/AI_Automation-DB2777?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/n8n-E11D48?style=for-the-badge&logo=n8n&logoColor=white"/>
-
-</p>
 
 
 </td>
