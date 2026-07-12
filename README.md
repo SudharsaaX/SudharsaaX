@@ -49,16 +49,18 @@ I'm passionate about building AI applications that solve real-world problems. My
 
 I enjoy turning ideas into practical solutions, exploring new AI technologies, and continuously improving my skills through hands-on projects.
 
-  
-- [View My Resume](https://drive.google.com/file/d/1Ua-azQCrfmLcyrRQfda5LYt_COc9fHQE/view?usp=sharing)
-
 ---
 
-## Portfolio
+## 💼 Featured Projects
 
-Explore my projects, animations, and creative work here:
-
-https://sudharsaax.web.app
+| Project | Description |
+|---------|-------------|
+| 🧠 **[Reviva](https://github.com/SudharsaaX/Reviva-Yawn-Detection)** | Real-time yawn detection and driver fatigue monitoring using Computer Vision. |
+| ⚡ **[DubSync](https://github.com/SudharsaaX/DubSync)** | AI-powered automation project for syncing and streamlining content or workflow tasks. |
+| 🤟 **[SignSense](https://github.com/SudharsaaX/SIGNSENSE-FDL)** | Sign language recognition system built with Machine Learning and Computer Vision. |
+| 🤖 **[LifeTrackerBot](https://github.com/SudharsaaX/LifeTracker-Bot)** | Personal tracking bot for habits, productivity, or daily progress management. |
+| 🏡 **[Futurenest Real Estate](https://github.com/SudharsaaX/FutureNest-RealEstate-ML)** | Machine learning-based real estate project for smarter property analysis and recommendations. |
+| 🧾 **[DataSage](https://github.com/SudharsaaX/DataSage)** | AI SQL assistant that converts natural language into SQL queries using LLMs. |
 
 ---
 
@@ -70,26 +72,6 @@ https://sudharsaax.web.app
 
 ---
 
-## Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/sudharsan-aiml/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Sudharsan%20S-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
-
----
-
-## Highlights
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Open%20Source-Contributor-2ea44f?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-Enthusiast-4b8bbe?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Deep%20Learning-Practitioner-6a1b9a?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI%20Research-Focused-0a9396?style=for-the-badge" />
-</p>
-
----
 ## GitHub Stats
 
 <p align="center">
