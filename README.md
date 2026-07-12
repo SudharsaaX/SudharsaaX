@@ -98,22 +98,43 @@ I enjoy turning ideas into practical solutions, exploring new AI technologies, a
 ---
 
 
-## GitHub Analytics
+---
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SudharsaaX&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SudharsaaX&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<h2 align="center">Developer Analytics</h2>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=SudharsaaX&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SudharsaaX&theme=tokyo-night&hide_border=true&area=true" />
-</p>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SudharsaaX&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
 
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SudharsaaX&layout=compact&theme=tokyonight&hide_border=true" />
 
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="98%" src="https://streak-stats.demolab.com?user=SudharsaaX&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=SudharsaaX&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:6C63FF,100:8A2BE2"/>
+
+</div>
+
+---
 ---
 
 ## Contribution Snake
