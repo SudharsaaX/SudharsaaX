@@ -103,6 +103,10 @@ I enjoy turning ideas into practical solutions, exploring new AI technologies, a
 <i>Building intelligent AI applications, one project at a time.</i>
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SudharsaaX&theme=tokyonight&hide_border=true" height="170" />
+</p>
+
 <br>
 
 <p align="center">
@@ -119,11 +123,13 @@ I enjoy turning ideas into practical solutions, exploring new AI technologies, a
 
 ---
 
+<div align="center">
 
-## GitHub Stats
+### Thanks for visiting my profile!
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=SudharsaaX&theme=tokyonight&hide_border=true" height="170" />
-</p>
+Building intelligent AI applications with curiosity, creativity, and continuous learning.
 
+⭐ If you find my work interesting, feel free to explore my repositories or connect with me.
+
+</div>
 ---
