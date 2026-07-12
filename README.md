@@ -18,8 +18,8 @@ Building intelligent AI applications to solve real-world problems.
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=sudharsan1527@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+<a href="https://github.com/SudharsaaX">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://raw.githubusercontent.com/SudharsaaX/SudharsaaX/main/Sudharsan_Resume.pdf" target="_blank">
