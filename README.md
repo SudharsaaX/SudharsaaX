@@ -113,74 +113,11 @@ I enjoy turning ideas into practical solutions, exploring new AI technologies, a
 
 ## Contribution Snake
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/SudharsaaX/SudharsaaX/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
-</p>
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ---
-
-
-
-
-
-
-
-
----
-
-<h2 align="center">Let's Connect</h2>
-
-<p align="center">
-If you're interested in collaborating on AI projects, discussing technology, or exploring opportunities, feel free to connect with me.
-</p>
-
-<p align="center">
-
-<a href="https://sudharsaax.web.app">
-<img src="https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/sudharsan-aiml/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/SudharsaaX">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://raw.githubusercontent.com/SudharsaaX/SudharsaaX/main/Sudharsan_Resume.pdf">
-<img src="https://img.shields.io/badge/Resume-View-success?style=for-the-badge&logo=readthedocs&logoColor=white"/>
-</a>
-
-</p>
-
-<p align="center">
-
-<strong>Email</strong><br>
-sudharsan1527@gmail.com
-
-</p>
-
----
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 ## GitHub Stats
