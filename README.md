@@ -65,7 +65,7 @@ I enjoy turning ideas into practical solutions, exploring new AI technologies, a
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=python,mysql" />
 </p>
 
 ### AI & Development Tools
@@ -86,7 +86,7 @@ I enjoy turning ideas into practical solutions, exploring new AI technologies, a
   <img src="https://img.shields.io/badge/Prompt%20Engineering-102230?style=for-the-badge" />
 </p>
 
-### AI Frameworks
+### AI Frameworks & Tools
 
 <p>
   <img src="https://img.shields.io/badge/LangChain-102230?style=for-the-badge&logo=langchain&logoColor=white" />
@@ -94,7 +94,6 @@ I enjoy turning ideas into practical solutions, exploring new AI technologies, a
   <img src="https://img.shields.io/badge/Ollama-102230?style=for-the-badge" />
   <img src="https://img.shields.io/badge/n8n-102230?style=for-the-badge&logo=n8n&logoColor=white" />
 </p>
-
 
 ---
 
