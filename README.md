@@ -1,7 +1,28 @@
-<img src="https://raw.githubusercontent.com/SudharsaaX/SudharsaaX/main/github-header-image.png" alt="banner" width="100%" />
+<img src="YOUR_BANNER" width="100%" alt="Banner"/>
 
-<h1 align="center">Hey, I'm Sudharsan S</h1>
-<h3 align="center">AI & ML Enthusiast | Tech Explorer from India</h3>
+<h1 align="center">
+Hi 👋 I'm Sudharsan S
+</h1>
+
+<h3 align="center">
+Aspiring AI Engineer | Generative AI | Machine Learning | Computer Vision | LLMs | AI Automation
+</h3>
+
+<p align="center">
+Building intelligent AI applications to solve real-world problems.
+</p>
+
+<p align="center">
+
+Portfolio • LinkedIn • GitHub • Resume • Email
+
+</p>
+
+<p align="center">
+
+🟢 Open to AI Engineer Opportunities
+
+</p>
 
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/0lGd2OXXHe4tFhb7Wh.webp" />
 
