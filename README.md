@@ -23,11 +23,11 @@ Building intelligent AI applications to solve real-world problems.
 </a>
 
 <a href="mailto:sudharsan1527@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="[YOUR_RESUME_LINK](https://github.com/SudharsaaX/SudharsaaX/blob/main/Sudharsan_Resume.pdf)">
-<img src="https://img.shields.io/badge/Resume-View-success?style=for-the-badge&logo=readthedocs&logoColor=white"/>
+<a href="https://drive.google.com/file/d/FILE_ID/view?usp=sharing" target="_blank">
+  <img src="https://img.shields.io/badge/Resume-View-success?style=for-the-badge&logo=readthedocs&logoColor=white"/>
 </a>
 
 
