@@ -41,7 +41,8 @@ Building intelligent AI applications to solve real-world problems.
 
 <table>
 <tr>
-<td width="65%" valign="top">
+
+<td width="68%" valign="top">
 
 I'm passionate about building **AI applications** that solve real-world problems. My interests include **Generative AI, Machine Learning, Computer Vision, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and AI automation with n8n**.
 
@@ -57,15 +58,21 @@ I enjoy transforming ideas into practical AI solutions, experimenting with emerg
 
 </td>
 
-<td width="35%" align="center">
+<td width="32%" align="center" valign="top">
 
-<img src="https://raw.githubusercontent.com/SudharsaaX/SudharsaaX/main/assets/bladerunner.gif" width="280"/>
+<br>
+
+<img
+src="https://raw.githubusercontent.com/SudharsaaX/SudharsaaX/main/assets/bladerunner.gif"
+width="320"
+alt="Cyberpunk AI"/>
 
 </td>
 
 </tr>
 </table>
 
+---
 ---
 
 ## Featured Projects
