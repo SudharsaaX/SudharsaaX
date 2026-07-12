@@ -26,7 +26,7 @@ Building intelligent AI applications to solve real-world problems.
 <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="YOUR_RESUME_LINK">
+<a href="[YOUR_RESUME_LINK](https://github.com/SudharsaaX/SudharsaaX/blob/main/Sudharsan_Resume.pdf)">
 <img src="https://img.shields.io/badge/Resume-View-success?style=for-the-badge&logo=readthedocs&logoColor=white"/>
 </a>
 
@@ -35,7 +35,7 @@ Building intelligent AI applications to solve real-world problems.
 
 <p align="center">
 
-🟢 Open to AI Engineer Opportunities
+<img src="https://img.shields.io/badge/Open%20to%20Work-AI%20Engineer-success?style=for-the-badge"/>
 
 </p>
 
