@@ -37,10 +37,6 @@ Building intelligent AI applications to solve real-world problems.
 
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/0lGd2OXXHe4tFhb7Wh.webp" />
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=sudharsaax&label=Profile%20Views&color=0e75b6&style=flat" alt="sudharsaax" />
-</p>
-
 ---
 
 ## About Me
@@ -51,7 +47,7 @@ I enjoy turning ideas into practical solutions, exploring new AI technologies, a
 
 ---
 
-## 💼 Featured Projects
+## Featured Projects
 
 | Project | Description |
 |---------|-------------|
@@ -63,6 +59,48 @@ I enjoy turning ideas into practical solutions, exploring new AI technologies, a
 | 🧾 **[DataSage](https://github.com/SudharsaaX/DataSage)** | AI SQL assistant that converts natural language into SQL queries using LLMs. |
 
 ---
+
+## Tech Stack
+
+### Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,c,js" />
+</p>
+
+### Artificial Intelligence & Machine Learning
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+</p>
+
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Generative AI
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- Prompt Engineering
+
+### AI Frameworks & Automation
+
+- LangChain
+- LangGraph
+- Hugging Face
+- Ollama
+- n8n
+
+### Web & Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,firebase" />
+</p>
+
+### Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux,postman" />
+</p>
+
+
+---
+
 
 ## Contribution Snake
 
