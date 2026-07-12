@@ -1,4 +1,4 @@
-<img src="YOUR_BANNER" width="100%" alt="Banner"/>
+<img src="https://raw.githubusercontent.com/SudharsaaX/SudharsaaX/main/github-header-image.png" alt="banner" width="100%" />
 
 <h1 align="center">
 Hi 👋 I'm Sudharsan S
