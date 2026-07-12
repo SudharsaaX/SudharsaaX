@@ -45,29 +45,9 @@ Building intelligent AI applications to solve real-world problems.
 
 ## About Me
 
-I'm an aspiring **AI Engineer** passionate about building intelligent applications that solve real-world problems through Artificial Intelligence. I enjoy transforming ideas into practical AI solutions by combining machine learning, generative AI, and automation.
+I'm passionate about building AI applications that solve real-world problems. My interests include **Generative AI, Machine Learning, Computer Vision, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and AI automation with n8n**.
 
-My primary interests include **Generative AI**, **Machine Learning**, **Computer Vision**, **Large Language Models (LLMs)**, **Retrieval-Augmented Generation (RAG)**, and **AI workflow automation with n8n**.
-
-I believe the best way to learn is by building. That's why I continuously work on hands-on projects, explore emerging AI technologies, and focus on creating scalable, production-ready applications that deliver real value.
-
-### Currently Exploring
-
--  Generative AI & LLM Applications
--  Machine Learning & Deep Learning
--  Computer Vision Systems
--  Retrieval-Augmented Generation (RAG)
--  AI Workflow Automation with n8n
--  AI Deployment & MLOps
-
-### Open to Collaborate On
-
-- Artificial Intelligence Projects
-- Machine Learning & Deep Learning Solutions
-- Computer Vision Applications
-- Generative AI & LLM-based Systems
-- AI Automation & Intelligent Workflows
-- Open Source AI Projects
+I enjoy turning ideas into practical solutions, exploring new AI technologies, and continuously improving my skills through hands-on projects.
 
   
 - [View My Resume](https://drive.google.com/file/d/1Ua-azQCrfmLcyrRQfda5LYt_COc9fHQE/view?usp=sharing)
