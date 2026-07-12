@@ -10,7 +10,26 @@ Building intelligent AI applications to solve real-world problems.
 
 <p align="center">
 
-Portfolio • LinkedIn • GitHub • Resume • Email
+<a href="https://sudharsaax.web.app">
+<img src="https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/sudharsan-aiml/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/SudharsaaX">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:sudharsan1527@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="YOUR_RESUME_LINK">
+<img src="https://img.shields.io/badge/Resume-View-success?style=for-the-badge&logo=readthedocs&logoColor=white"/>
+</a>
+
 
 </p>
 
