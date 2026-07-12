@@ -60,8 +60,6 @@ I enjoy transforming ideas into practical AI solutions, experimenting with emerg
 
 <img src="https://img.shields.io/badge/Computer_Vision-6D28D9?style=for-the-badge"/>
 
-<br><br>
-
 <img src="https://img.shields.io/badge/LLMs-C026D3?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/RAG-D946EF?style=for-the-badge"/>
