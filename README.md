@@ -48,6 +48,28 @@ I'm passionate about building **AI applications** that solve real-world problems
 
 I enjoy transforming ideas into practical AI solutions, experimenting with emerging technologies, and continuously improving through hands-on projects.
 
+---
+
+### Core Interests
+
+<p>
+
+<img src="https://img.shields.io/badge/Generative_AI-8A2BE2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Machine_Learning-6C63FF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Computer_Vision-5D5FEF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/LLMs-7B61FF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/RAG-9333EA?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/AI_Automation-7C3AED?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+
+</p>
+
 
 </td>
 
