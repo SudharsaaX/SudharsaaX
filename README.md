@@ -44,9 +44,12 @@ Building intelligent AI applications to solve real-world problems.
 
 <td width="68%" valign="top">
 
-I'm passionate about building **AI applications** that solve real-world problems. My interests include **Generative AI, Machine Learning, Computer Vision, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and AI automation with n8n**.
+I'm passionate about building **AI applications** that solve real-world problems. My primary interests include **Generative AI, Machine Learning, Computer Vision, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and AI automation with n8n**.
 
-I enjoy transforming ideas into practical AI solutions, experimenting with emerging technologies, and continuously improving through hands-on projects.
+I enjoy transforming ideas into intelligent products by combining modern AI technologies with practical software development. I believe the best way to learn is by building real-world applications that create value and continuously refining them through experimentation and iteration.
+
+My goal is to grow as an **AI Engineer**, contributing to innovative products while continuously expanding my knowledge of emerging AI technologies and production-ready AI systems.
+
 
 ---
 
