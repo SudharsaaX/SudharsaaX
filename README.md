@@ -100,21 +100,13 @@ I enjoy turning ideas into practical solutions, exploring new AI technologies, a
 
 ---
 
----
-
-<h2 align="center">Development Insights</h2>
-
-<p align="center">
-  <i>Building intelligent AI applications, one commit at a time.</i>
-</p>
-
-<br>
-
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SudharsaaX&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
+# 📊 Development Insights
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SudharsaaX&layout=compact&theme=github_dark&hide_border=true" />
+<p>
+<i>Building intelligent AI applications, one project at a time.</i>
+</p>
 
 </div>
 
@@ -122,7 +114,31 @@ I enjoy turning ideas into practical solutions, exploring new AI technologies, a
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SudharsaaX&theme=github-dark&hide_border=true&area=true&custom_title=Contribution%20Activity"/>
+<a href="https://github.com/SudharsaaX">
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=SudharsaaX&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
+
+</a>
+
+<a href="https://github.com/SudharsaaX">
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SudharsaaX&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="96%" src="https://streak-stats.demolab.com?user=SudharsaaX&theme=radical&hide_border=true&border_radius=10"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=SudharsaaX&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity"/>
 
 </div>
 
