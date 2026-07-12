@@ -45,17 +45,31 @@ Building intelligent AI applications to solve real-world problems.
 
 ## About Me
 
-- Currently focused on **Placement Preparation & End-to-End AI Projects**
-- Learning **Machine Learning, Deep Learning, Data Science & MLOps**
-- Open to collaborating on:
-  - Machine Learning & Deep Learning Projects
-  - Computer Vision & NLP Systems
-  - AI Automation Tools
-  - Research-Oriented AI Applications
-- Ask me about:
-  **Python, ML/DL, PyTorch, TensorFlow, OpenCV, NLP, Data Analysis**
-- Reach me at:
-  **sudharsan1527@gmail.com**
+I'm an aspiring **AI Engineer** passionate about building intelligent applications that solve real-world problems through Artificial Intelligence. I enjoy transforming ideas into practical AI solutions by combining machine learning, generative AI, and automation.
+
+My primary interests include **Generative AI**, **Machine Learning**, **Computer Vision**, **Large Language Models (LLMs)**, **Retrieval-Augmented Generation (RAG)**, and **AI workflow automation with n8n**.
+
+I believe the best way to learn is by building. That's why I continuously work on hands-on projects, explore emerging AI technologies, and focus on creating scalable, production-ready applications that deliver real value.
+
+### Currently Exploring
+
+-  Generative AI & LLM Applications
+-  Machine Learning & Deep Learning
+-  Computer Vision Systems
+-  Retrieval-Augmented Generation (RAG)
+-  AI Workflow Automation with n8n
+-  AI Deployment & MLOps
+
+### Open to Collaborate On
+
+- Artificial Intelligence Projects
+- Machine Learning & Deep Learning Solutions
+- Computer Vision Applications
+- Generative AI & LLM-based Systems
+- AI Automation & Intelligent Workflows
+- Open Source AI Projects
+
+  
 - [View My Resume](https://drive.google.com/file/d/1Ua-azQCrfmLcyrRQfda5LYt_COc9fHQE/view?usp=sharing)
 
 ---
