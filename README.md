@@ -48,13 +48,6 @@ I'm passionate about building **AI applications** that solve real-world problems
 
 I enjoy transforming ideas into practical AI solutions, experimenting with emerging technologies, and continuously improving through hands-on projects.
 
-### Interests
-
-- Generative AI & LLM Applications
-- Computer Vision
-- Retrieval-Augmented Generation (RAG)
-- AI Automation with n8n
-- Building End-to-End AI Projects
 
 </td>
 
@@ -64,7 +57,7 @@ I enjoy transforming ideas into practical AI solutions, experimenting with emerg
 
 <img
 src="https://raw.githubusercontent.com/SudharsaaX/SudharsaaX/main/assets/bladerunner.gif"
-width="320"
+width="520"
 alt="Cyberpunk AI"/>
 
 </td>
