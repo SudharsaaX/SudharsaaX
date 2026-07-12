@@ -1,3 +1,49 @@
+<img src="https://raw.githubusercontent.com/SudharsaaX/SudharsaaX/main/github-header-image.png" alt="banner" width="100%" />
+
+<h3 align="center">
+Aspiring AI Engineer | Generative AI | Machine Learning | Computer Vision | LLMs | AI Automation
+</h3>
+
+<p align="center">
+Building intelligent AI applications to solve real-world problems.
+</p>
+
+<p align="center">
+
+<a href="https://sudharsaax.web.app">
+<img src="https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/sudharsan-aiml/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/SudharsaaX">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://raw.githubusercontent.com/SudharsaaX/SudharsaaX/main/Sudharsan_Resume.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/Resume-View-success?style=for-the-badge&logo=readthedocs&logoColor=white"/>
+</a>
+
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Open%20to%20Work-AI%20Engineer-success?style=for-the-badge"/>
+
+</p>
+
+<img
+  align="right"
+  width="320"
+  src="https://raw.githubusercontent.com/SudharsaaX/SudharsaaX/main/assets/bladerunner.gif"
+  alt="AI Animation"
+/> 
+
+---
+
 ## About Me
 
 <table>
