@@ -62,40 +62,37 @@ I enjoy turning ideas into practical solutions, exploring new AI technologies, a
 
 ## Tech Stack
 
-### Programming Languages
+### Languages
+
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,c,js" />
+  <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
-### Artificial Intelligence & Machine Learning
+### AI & Development Tools
+
 <p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,mongodb,git,github,docker,linux,vscode,anaconda" />
 </p>
 
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- Generative AI
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- Prompt Engineering
+### AI Technologies
 
-### AI Frameworks & Automation
-
-- LangChain
-- LangGraph
-- Hugging Face
-- Ollama
-- n8n
-
-### Web & Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,firebase" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-102230?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Computer%20Vision-102230?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Generative%20AI-102230?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LLMs-102230?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG-102230?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-102230?style=for-the-badge" />
 </p>
 
-### Tools & Platforms
+### AI Frameworks
+
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux,postman" />
+  <img src="https://img.shields.io/badge/LangChain-102230?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-102230?style=for-the-badge&logo=huggingface&logoColor=yellow" />
+  <img src="https://img.shields.io/badge/Ollama-102230?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/n8n-102230?style=for-the-badge&logo=n8n&logoColor=white" />
 </p>
 
 
