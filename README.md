@@ -79,7 +79,7 @@ I enjoy transforming ideas into practical AI solutions, experimenting with emerg
 
 <img
 src="https://raw.githubusercontent.com/SudharsaaX/SudharsaaX/main/assets/bladerunner.gif"
-width="480"
+width="400"
 alt="Cyberpunk AI"/>
 
 </td>
