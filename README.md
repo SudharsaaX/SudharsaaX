@@ -53,9 +53,6 @@ My goal is to grow as an **AI Engineer**, contributing to innovative products wh
 
 ---
 
-
-
-
 </td>
 
 <td width="32%" align="center" valign="top">
@@ -72,7 +69,6 @@ alt="Cyberpunk AI"/>
 </tr>
 </table>
 
----
 ---
 
 ## Featured Projects
